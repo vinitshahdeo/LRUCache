@@ -1,0 +1,24 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "LRU Cache implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/LRUCache.git"
+  },
+  "keywords": [
+    "lru",
+    "cache",
+    "map"
+  ],
+  "author": "Vinit Shahdeo <https://vinitshahdeo.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/LRUCache/issues"
+  },
+  "homepage": "https://github.com/vinitshahdeo/LRUCache#readme"
+}
