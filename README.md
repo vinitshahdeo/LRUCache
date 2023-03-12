@@ -2,9 +2,9 @@
 
 A basic implementation of LRU cache in JavaScript using Map and a doubly linked list. 
 
-- `get(key)`: Get the value of key from cache in `O(1)` time.
-- `set(key, value)`: Set the key-value to the cache in `O(1)` time.
-- `print()`: Print key-value present in the cache
+- `get(key)` — Get the value of key from cache in `O(1)` time.
+- `set(key, value)` — Set the key-value to the cache in `O(1)` time.
+- `print()` — Print key-value present in the cache
 
 ## Usage
 
@@ -42,5 +42,5 @@ cache.print();
 ## Examples
 
 Please refer to the examples:
-1. [DLL.js](./examples/DLL.js) - Implementation using doubly linked list.
-2. [map.js](./examples/map.js) - Implementation using map.
+1. [DLL.js](./examples/DLL.js) — Implementation using doubly linked list.
+2. [map.js](./examples/map.js) — Implementation using map.
