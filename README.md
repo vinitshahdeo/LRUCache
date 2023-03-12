@@ -1,4 +1,4 @@
-# LRUCache
+# LRU Cache
 
 A basic implementation of LRU cache in JavaScript using Map and a doubly linked list. 
 
