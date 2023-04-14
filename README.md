@@ -1,4 +1,8 @@
+[![License](https://img.shields.io/badge/License-MIT-blue?logo=github)](#license) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![stars - LRUCache](https://img.shields.io/github/stars/vinitshahdeo/LRUCache?logo=github)](https://github.com/vinitshahdeo/LRUCache)
+
 # LRU Cache
+
 
 A basic implementation of LRU cache in JavaScript using Map and a doubly linked list. 
 
@@ -44,3 +48,7 @@ cache.print();
 Please refer to the examples:
 1. [DLL.js](./examples/DLL.js) — Implementation using doubly linked list.
 2. [map.js](./examples/map.js) — Implementation using map.
+
+## License
+
+Released under [MIT](/LICENSE) by [@vinitshahdeo](https://github.com/vinitshahdeo)
